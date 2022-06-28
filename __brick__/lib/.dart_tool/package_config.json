@@ -692,13 +692,13 @@
       "languageVersion": "2.12"
     },
     {
-      "name": "totaltest",
+      "name": "architecture",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "2.16"
     }
   ],
-  "generated": "2022-06-28T06:59:00.884224Z",
+  "generated": "2022-06-28T06:59:21.714538Z",
   "generator": "pub",
   "generatorVersion": "2.16.2"
 }
